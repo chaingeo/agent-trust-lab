@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it using this metadata."
+title: Agent Trust Lab
+type: software
+authors:
+  - name: CHAIN GEO
+version: 0.1.0
+repository-code: https://github.com/chaingeo/agent-trust-lab
